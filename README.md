@@ -1,6 +1,6 @@
 # Hi, I'm Quincy 👋
 
-Rising sophomore CS undergraduate in China, self-studying towards a US CS/ML graduate program.
+Rising sophomore CS undergraduate, self-studying towards a US CS/ML graduate program.
 
 **Currently working through:**
 - Berkeley CS189 (Machine Learning) — [notes here](https://github.com/ljr071105-cmyk/study-notes/tree/main/cs189)
