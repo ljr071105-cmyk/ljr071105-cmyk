@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Quincy 👋
 
-<!--
-**ljr071105-cmyk/ljr071105-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Rising sophomore CS undergraduate in China, self-studying towards a US CS/ML graduate program.
 
-Here are some ideas to get you started:
+**Currently working through:**
+- Berkeley CS189 (Machine Learning) — [daily notes here](链接放你发笔记的地方)
+- Probability & Linear Algebra foundations (Stanford Data 140 / MIT 18.06, 18.05)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Background:**
+- Completed Andrew Ng's Machine Learning Specialization
+- Interested in multimodal ML / LLMs, with a longer-standing interest in quantitative finance
+
+**What I'm looking for:**
+Open to contributing to research remotely — reproducing papers, running experiments, cleaning data, whatever's useful. Feel free to reach out.
+
+📫 [你的邮箱] · 📝 [笔记链接] · 
+
+---
+🌱 Currently learning: PyTorch fundamentals, Transformer architecture
